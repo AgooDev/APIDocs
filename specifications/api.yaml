@@ -1,0 +1,7 @@
+# this file contains the Swagger RESTful API Specifications of the Agoo API
+# this API spec is in YAML format
+swagger: '2.0'
+info:
+  title: Agoo API
+  description: step by step
+  version: "0.1.0"
